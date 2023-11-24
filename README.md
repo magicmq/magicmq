@@ -70,6 +70,8 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2031%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -102,5 +104,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/11/2023 05:12:56 UTC
+ Last Updated on 24/11/2023 05:12:39 UTC
 <!--END_SECTION:waka-->
