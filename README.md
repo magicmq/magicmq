@@ -70,7 +70,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2050%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -105,5 +105,5 @@ IntelliJ                 4 mins              ███████████�
 ```
 
 
- Last Updated on 12/02/2024 05:13:12 UTC
+ Last Updated on 13/02/2024 05:12:30 UTC
 <!--END_SECTION:waka-->
