@@ -70,7 +70,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2046%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -97,12 +97,16 @@ Sunday                   204 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 31 mins        ████████████████████░░░░░   79.50 % 
+YAML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2024 05:15:25 UTC
+ Last Updated on 27/07/2024 05:14:04 UTC
 <!--END_SECTION:waka-->
