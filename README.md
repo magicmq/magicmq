@@ -18,7 +18,7 @@
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-![Bukkit API](https://img.shields.io/badge/Bukkit%20API-62B47A?style=flat&logo=minecraft&logoColor=white)
+![Bukkit API](https://img.shields.io/badge/Bukkit%20API-62B47A?style=flat&logo=spigotmc&logoColor=white)
 ![Apache Commons](https://img.shields.io/badge/Apache%20Commons-D22128?style=flat&logo=apache&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
