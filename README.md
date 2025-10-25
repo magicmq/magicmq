@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Java projects for Minecraft
-- 🏫 I'm currently in medical school
+- 🏫 I'm currently a resident physician (doctor in training)
 - 📓 I'm looking to learn Go and machine learning/AI programming with TensorFlow
 - 📫 How to reach me: business@magicmq.dev
 
