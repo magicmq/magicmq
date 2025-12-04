@@ -96,7 +96,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -123,12 +123,12 @@ Sunday                   980 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/12/2025 05:19:30 UTC
+ Last Updated on 04/12/2025 05:21:18 UTC
 <!--END_SECTION:waka-->
