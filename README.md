@@ -96,7 +96,7 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -135,5 +135,5 @@ IntelliJ IDEA            24 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/01/2026 05:42:48 UTC
+ Last Updated on 30/01/2026 05:45:38 UTC
 <!--END_SECTION:waka-->
