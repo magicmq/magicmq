@@ -96,44 +96,6 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2051%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                3855 commits        ████████████░░░░░░░░░░░░░   48.70 % 
-🌃 Evening                2197 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌙 Night                  1655 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Tuesday                  834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 782 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   1292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Sunday                   1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     2 hrs 9 mins        █████████████░░░░░░░░░░░░   51.00 % 
-C                        48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Python                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-C++                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-
-🔥 Editors: 
-IntelliJ IDEA            3 hrs 27 mins       ████████████████████░░░░░   81.52 % 
-Unknown Editor           47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-```
-
-
- Last Updated on 14/05/2026 07:42:42 UTC
+ Last Updated on 15/05/2026 07:52:47 UTC
 <!--END_SECTION:waka-->
