@@ -96,42 +96,6 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                3855 commits        ████████████░░░░░░░░░░░░░   48.70 % 
-🌃 Evening                2197 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌙 Night                  1655 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Tuesday                  834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 782 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   1292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Sunday                   1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        1 hr 7 mins         ██████████████████░░░░░░░   71.65 % 
-Java                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-IntelliJ IDEA            1 hr 23 mins        ██████████████████████░░░   88.91 % 
-Claude Code              10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-```
-
-
- Last Updated on 22/05/2026 08:22:35 UTC
+ Last Updated on 23/05/2026 07:31:11 UTC
 <!--END_SECTION:waka-->
