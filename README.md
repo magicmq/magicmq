@@ -96,43 +96,6 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2050%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                208 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-🌆 Daytime                3855 commits        ████████████░░░░░░░░░░░░░   48.70 % 
-🌃 Evening                2197 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌙 Night                  1655 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Tuesday                  834 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Wednesday                1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 782 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Friday                   1292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Sunday                   1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               5 hrs 43 mins       ██████████████████████░░░   89.86 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 03/06/2026 09:26:28 UTC
+ Last Updated on 04/06/2026 08:47:35 UTC
 <!--END_SECTION:waka-->
