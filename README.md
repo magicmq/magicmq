@@ -96,6 +96,8 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2050%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -132,5 +134,5 @@ VS Code                  5 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 05/06/2026 08:44:18 UTC
+ Last Updated on 06/06/2026 07:47:23 UTC
 <!--END_SECTION:waka-->
