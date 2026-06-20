@@ -37,6 +37,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 
 #### Web Development Frameworks/Libraries
 
