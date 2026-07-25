@@ -98,13 +98,15 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%2046%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-🌆 Daytime                3890 commits        ████████████░░░░░░░░░░░░░   48.72 % 
+🌆 Daytime                3890 commits        ████████████░░░░░░░░░░░░░   48.71 % 
 🌃 Evening                2207 commits        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌙 Night                  1656 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌙 Night                  1657 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -114,7 +116,7 @@ Tuesday                  834 commits         ███░░░░░░░░�
 Wednesday                1348 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Thursday                 782 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 Friday                   1327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Saturday                 1150 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Saturday                 1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 Sunday                   1117 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 ```
 
@@ -123,17 +125,17 @@ Sunday                   1117 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.59 % 
-Python                   8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-TypeScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-SQL                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 12 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   35.52 % 
+Python                   8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+TypeScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+SQL                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 50 mins      ████████████████████░░░░░   79.30 % 
-VS Code                  7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Claude Code              28 hrs 55 mins      ████████████████████░░░░░   79.34 % 
+VS Code                  7 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 
 
- Last Updated on 24/07/2026 07:32:26 UTC
+ Last Updated on 25/07/2026 07:15:24 UTC
 <!--END_SECTION:waka-->
