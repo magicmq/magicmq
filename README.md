@@ -98,9 +98,9 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C966%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-280%20hrs%2037%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -127,43 +127,43 @@ Sunday                   1251 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   34.27 % 
-TypeScript               12 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Python                   8 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-SQL                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown                 17 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.36 % 
+TypeScript               9 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Python                   8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+SQL                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other                    43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 22 mins      ████████████████░░░░░░░░░   65.58 % 
-VS Code                  13 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   34.42 % 
+Claude Code              28 hrs 10 mins      ██████████████████░░░░░░░   70.23 % 
+VS Code                  11 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 23 mins (85.51%)
+⏱ AI Coding Time: 35 hrs 30 mins (88.5%)
 
-✍️ 38,182 lines written by AI, 697 lines written by hand (98.21% AI-written)
+✍️ 38,816 lines written by AI, 552 lines written by hand (98.6% AI-written)
 
-🔤 27,787,679 Input Tokens, 2,768,866 Output Tokens
+🔤 17,462,880 Input Tokens, 2,524,639 Output Tokens
 
-💵 $584.66 Estimated AI Cost This Week
+💵 $437.24 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 445 AI Prompts
+🧠 23 AI Sessions, 383 AI Prompts
 
-Opus                     20,879 lines        █████████████░░░░░░░░░░░░   50.59 % 
-Fable                    20,176 lines        ████████████░░░░░░░░░░░░░   48.88 % 
-Haiku                    220 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Opus                     22,329 lines        ██████████████░░░░░░░░░░░   55.87 % 
+Fable                    17,416 lines        ███████████░░░░░░░░░░░░░░   43.58 % 
+Haiku                    220 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.21% of written lines came from AI
-📚 Verbose Prompter — average 2,784 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 2.72% of changed lines were hand-edited
+🤖 AI-Driven — 98.6% of written lines came from AI
+📚 Verbose Prompter — average 2,736 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 2.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 09:42:51 UTC
+ Last Updated on 17/09/2026 09:51:07 UTC
 <!--END_SECTION:waka-->
